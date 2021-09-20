@@ -14,7 +14,7 @@ import org.springframework.jdbc.core.JdbcTemplate;
 import com.spring.springbatchdemo.model.Person;
 
 /**
- * @author VishalCRai
+ * @author Vishal Rai
  *
  */
 public class PersonItemWriter implements ItemWriter<Person> {
